@@ -46,3 +46,8 @@ We use the **Pima Indians Diabetes Dataset**, which includes 768 records of fema
   - Confusion Matrix
   - Classification Report
 
+## 📷 Sample Output
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+
